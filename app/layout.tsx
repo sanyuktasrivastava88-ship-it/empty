@@ -3,7 +3,7 @@ import { LetterProvider } from "@/context/LetterContext";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Read When Letters - Create a Box of Love Letters",
+  title: "Love Letters - Create a Box of Love Letters",
   description: "Send personalized 'read when' letters to someone special",
 };
 
